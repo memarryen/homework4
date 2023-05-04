@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+.frame {
+    width: 400px;
+    background-color: #fafafa;
+    border-radius: 10px;
+    border-color: #DCDCDC;
+    border-style: solid;
+    margin: 100px auto;
+    padding-bottom: 30px;
+}
+img {
+    margin-top: 40px;
+}
+h2 {
+    margin-left: 30px;
+}
+.line {
+    width: 300px;
+    height: 1px;
+    background-color: black;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.maintext {
+    margin-left: 30px;
+}
+.addtext {
+    color: #5076FF;
+    margin-left: 283px;
+    text-decoration: none;
+}
